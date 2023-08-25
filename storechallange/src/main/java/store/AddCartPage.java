@@ -10,7 +10,6 @@ public class AddCartPage extends MainClass {
 		super(driver);
 	}
 
-	
 	@FindBy (id = "button-cart")
 	private WebElement AddToCart;
 	
